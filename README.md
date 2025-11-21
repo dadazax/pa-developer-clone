@@ -2,6 +2,21 @@
 
 这是从 https://docs.infopa.cc/ 还原的源代码。
 
+## 🚀 快速部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dadazax/pa-developer-clone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dadazax/pa-developer-clone)
+
+## 📦 GitHub 仓库
+
+https://github.com/dadazax/pa-developer-clone
+
+## 📖 文档
+
+- [安装指南](INSTALL.md) - 详细的安装和运行说明
+- [部署指南](DEPLOYMENT.md) - 部署到 Vercel、Netlify、GitHub Pages
+- [项目总结](PROJECT_SUMMARY.md) - 完整的项目还原总结
+
 ## 技术栈
 
 - **Vue 2.6.14** - 渐进式 JavaScript 框架
